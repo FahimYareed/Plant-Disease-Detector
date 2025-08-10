@@ -59,13 +59,11 @@ streamlit run main.py
 ```
 The app will be available at http://localhost:8501 
 
-Usage 📖
-
-## Upload Image 
-1. Click "Upload an image" and select a clear photo of a plant leaf
+## Usage 
+1. Upload Image: Click "Upload an image" and select a clear photo of a plant leaf
 2. Predict: Click the "Predict" button to analyze the image
 3. View Results: The app will display:
- - The predicted disease/condition
- - Description of the disease
- - Prevention measures
+   - The predicted disease/condition
+   - Detailed description of the disease
+   - Prevention measures and management tips
 
