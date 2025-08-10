@@ -1,0 +1,240 @@
+{
+  "Apple___Apple_scab": [
+    "Use scab-resistant apple varieties when possible.", 
+    "Prune trees regularly to improve air circulation and reduce humidity.",
+    "Remove and destroy fallen leaves and fruit to reduce overwintering fungus.",
+    "Apply protective fungicides during early spring, especially from green tip to petal fall.",
+    "Avoid overhead irrigation to reduce leaf wetness.",
+    "Thin tree canopy to allow better sunlight penetration."
+],
+  "Apple___Black_rot": [
+    "Remove and destroy mummified fruits and infected branches during pruning.",
+    "Clean up fallen leaves and fruit to reduce fungal spores.",
+    "Avoid tree injuries, as wounds allow pathogen entry.",
+    "Apply appropriate fungicides during early fruit development.",
+    "Ensure proper tree spacing and pruning for good air circulation.",
+    "Use resistant cultivars if available."
+],
+  "Apple___Cedar_apple_rust": [
+    "Plant resistant apple cultivars whenever possible.",
+    "Avoid planting apple trees near cedar or juniper trees (within ~300 meters).",
+    "Remove nearby juniper hosts if feasible, especially those showing galls.",
+    "Prune and destroy infected twigs and branches.",
+    "Apply fungicides during early spring from pink bud to petal fall."
+],
+  "Apple___healthy": [
+    "No prevention needed."
+],
+  "Blueberry___healthy": [
+    "No prevention needed."
+],
+  "Cherry___healthy": [
+    "No prevention needed."
+],
+  "Cherry___Powdery_mildew": [
+    "Prune trees to improve air circulation and light penetration.",
+    "Avoid excessive nitrogen fertilization which promotes soft, susceptible growth.",
+    "Remove and destroy infected leaves and shoots.",
+    "Apply sulfur-based or systemic fungicides at early signs of infection.",
+    "Choose resistant cultivars if available."
+],
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot":[
+    "Rotate corn with non-host crops to reduce pathogen buildup.",
+    "Plant resistant or tolerant corn hybrids.",
+    "Remove or deeply bury infected crop residue after harvest.",
+    "Avoid excessive nitrogen fertilization.",
+    "Use irrigation methods that minimize leaf wetness.",
+    "Apply fungicides preventively or at early disease stages if needed."
+],
+  "Corn___Common_rust":[
+    "Plant resistant corn hybrids when available.",
+    "Rotate crops to reduce the presence of overwintering spores.",
+    "Monitor fields regularly for early signs of rust.",
+    "Apply fungicides if disease pressure is high, especially at early stages.",
+    "Ensure proper plant spacing to improve air circulation."    
+],
+  "Corn___healthy":[
+    "No prevention needed."
+], 
+  "Corn___Northern_Leaf_Blight":[
+    "Use resistant or tolerant corn hybrids.",
+    "Practice crop rotation with non-host crops.",
+    "Remove or plow under infected crop debris to reduce overwintering spores.",
+    "Monitor fields early, especially during wet and humid conditions.",
+    "Apply fungicides if symptoms appear early or if disease risk is high."
+],
+  "Grape___Black_rot":[
+    "Plant resistant grape varieties if available.",
+    "Prune to improve air circulation and remove infected shoots.",
+    "Remove and destroy mummified berries and infected leaves.",
+    "Apply fungicides regularly during the growing season, especially in wet weather.",
+    "Practice good sanitation by cleaning up fallen debris."
+], 
+  "Grape___Esca_(Black_Measles)":[
+    "Use certified disease-free planting material.",
+    "Prune and remove infected wood to prevent spread.",
+    "Avoid injuries to the vine which can serve as infection entry points.",
+    "Practice good vineyard sanitation by removing and destroying infected debris.",
+    "Avoid excessive nitrogen fertilization to reduce vine stress.",
+    "Apply fungicides where recommended, especially during pruning."
+], 
+  "Grape___healthy":[
+    "No prevention needed."
+],
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)":[
+    "Plant resistant or tolerant grape varieties if available.",
+    "Prune to improve air circulation and reduce humidity in the canopy.",
+    "Remove and destroy infected leaves and plant debris.",
+    "Apply fungicides early in the season and repeat as needed, especially during wet conditions.",
+    "Avoid overhead irrigation to reduce leaf wetness."
+],
+  "Orange___Haunglongbing_(Citrus_greening)":[
+    "Use certified disease-free nursery trees.",
+    "Control the Asian citrus psyllid vector with insecticides.",
+    "Remove and destroy infected trees promptly to prevent spread.",
+    "Implement strict quarantine and sanitation measures.",
+    "Avoid moving infected plant material between orchards.",
+    "Plant tolerant or resistant citrus varieties if available."
+], 
+  "Peach___Bacterial_spot":[
+    "Use disease-free nursery stock.",
+    "Prune trees to improve air circulation and remove infected twigs.",
+    "Avoid overhead irrigation to reduce leaf wetness.",
+    "Apply copper-based bactericides during early growing season.",
+    "Remove and destroy infected fruit and plant debris.",
+    "Avoid working in orchards when trees are wet to prevent spread."
+], 
+  "Peach___healthy":[
+    "No prevention needed."
+], 
+  "Pepper,_bell___Bacterial_spot":[
+    "Use disease-free seeds or transplants.",
+    "Rotate crops to non-host plants to reduce pathogen buildup.",
+    "Avoid overhead irrigation to minimize leaf wetness.",
+    "Apply copper-based bactericides as a preventive measure.",
+    "Remove and destroy infected plant debris.",
+    "Practice good field sanitation and weed control."
+],
+  "Pepper,_bell___healthy":[
+    "No prevention needed."
+],
+  "Potato___Early_blight":[
+    "Use certified disease-free seed potatoes.",
+    "Plant resistant or tolerant potato varieties if available.",
+    "Practice crop rotation with non-host crops.",
+    "Remove and destroy infected plant debris after harvest.",
+    "Apply fungicides preventively, especially during wet conditions.",
+    "Avoid overhead irrigation to reduce leaf wetness."
+], 
+  "Potato___healthy":[
+    "No prevention needed."
+],
+  "Potato___Late_blight":[
+    "Use certified disease-free seed potatoes.",
+    "Plant resistant potato varieties when possible.",
+    "Practice crop rotation with non-host crops.",
+    "Remove and destroy infected plant debris promptly.",
+    "Apply fungicides preventively, especially during wet and cool conditions.",
+    "Avoid overhead irrigation to reduce leaf wetness and spread."
+],
+  "Raspberry___healthy":[
+    "No prevention needed."
+],
+  "Soybean___healthy":[
+    "No prevention needed."
+], 
+  "Squash___Powdery_mildew":[
+    "Plant resistant squash varieties if available.",
+    "Ensure good air circulation by proper spacing and pruning.",
+    "Avoid overhead watering to keep foliage dry.",
+    "Remove and destroy infected leaves and plant debris.",
+    "Apply fungicides early when symptoms first appear.",
+    "Maintain balanced fertilization; avoid excessive nitrogen."
+],
+  "Strawberry___healthy":[
+    "No prevention needed."
+],
+  "Strawberry___Leaf_scorch":[
+    "Use disease-free planting material.",
+    "Plant resistant strawberry varieties if available.",
+    "Avoid overhead irrigation to reduce leaf wetness.",
+    "Remove and destroy infected leaves and plant debris.",
+    "Ensure proper spacing to improve air circulation.",
+    "Apply appropriate fungicides when symptoms appear."
+], 
+  "Tomato___Bacterial_spot":[
+    "Use certified disease-free seeds or transplants.",
+    "Practice crop rotation with non-host plants.",
+    "Avoid overhead irrigation to reduce leaf wetness.",
+    "Remove and destroy infected plant debris.",
+    "Apply copper-based bactericides preventively.",
+    "Avoid working in fields when plants are wet to prevent spread."
+],
+  "Tomato___Early_blight":[
+    "Use disease-free seeds or transplants.",
+    "Plant resistant tomato varieties if available.",
+    "Practice crop rotation with non-host crops.",
+    "Remove and destroy infected plant debris.",
+    "Apply fungicides preventively, especially during wet conditions.",
+    "Avoid overhead irrigation to minimize leaf wetness."
+],
+  "Tomato___healthy":[
+    "No prevention needed."
+],
+  "Tomato___Late_blight":[
+    "Use certified disease-free seeds or transplants.",
+    "Plant resistant tomato varieties if available.",
+    "Practice crop rotation with non-host crops.",
+    "Remove and destroy infected plant debris promptly.",
+    "Apply fungicides preventively, especially during cool, wet weather.",
+    "Avoid overhead irrigation to reduce leaf wetness and disease spread."
+],
+  "Tomato___Leaf_Mold":[
+    "Use disease-free seeds or transplants.",
+    "Provide good air circulation by proper plant spacing and pruning.",
+    "Avoid overhead irrigation to reduce leaf wetness.",
+    "Remove and destroy infected leaves and plant debris.",
+    "Apply fungicides early, especially in warm, humid conditions.",
+    "Maintain balanced fertilization to support plant health."
+],
+  "Tomato___Septoria_leaf_spot":[
+    "Use disease-free seeds or transplants.",
+    "Practice crop rotation with non-host crops.",
+    "Remove and destroy infected leaves and plant debris.",
+    "Provide good air circulation by proper spacing and pruning.",
+    "Apply fungicides preventively during humid and wet conditions.",
+    "Avoid overhead irrigation to reduce leaf wetness."
+],
+  "Tomato___Spider_mites Two-spotted_spider_mite":[
+    "Monitor plants regularly for early signs of mite infestation.",
+    "Encourage natural predators like ladybugs and predatory mites.",
+    "Avoid excessive use of broad-spectrum insecticides that kill beneficial insects.",
+    "Maintain proper irrigation to reduce plant stress.",
+    "Remove heavily infested plant material to prevent spread.",
+    "Apply miticides when infestations reach damaging levels."
+],
+  "Tomato___Target_Spot":[
+    "Use disease-free seeds or transplants.",
+    "Practice crop rotation with non-host crops.",
+    "Remove and destroy infected plant debris.",
+    "Provide good air circulation through proper spacing and pruning.",
+    "Apply fungicides early in the season and as needed during wet conditions.",
+    "Avoid overhead irrigation to minimize leaf wetness."
+],
+  "Tomato___Tomato_mosaic_virus":[
+    "Use certified virus-free seeds or transplants.",
+    "Remove and destroy infected plants promptly to prevent spread.",
+    "Disinfect tools and hands regularly to avoid mechanical transmission.",
+    "Control weed hosts that can harbor the virus.",
+    "Practice crop rotation and avoid planting tomatoes in the same soil consecutively.",
+    "Implement strict sanitation measures in the greenhouse and field."
+],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus":[
+    "Use resistant or tolerant tomato varieties if available.",
+    "Control whitefly populations, the virus vector, using insecticides or natural predators.",
+    "Remove and destroy infected plants promptly.",
+    "Use reflective mulches to repel whiteflies.",
+    "Implement strict sanitation to avoid spread through tools and hands.",
+    "Practice crop rotation and avoid planting tomatoes near infected crops."
+]
+}
