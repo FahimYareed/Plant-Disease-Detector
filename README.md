@@ -29,7 +29,43 @@ A machine learning-powered web application that identifies plant diseases from l
 
 ## Installation & Setup
 ### Prerequisites
+- Python 3.7 or higher
+- pip package manager
 
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/plant-disease-detector.git
+cd plant-disease-detector
+```
+2. Install Dependencies
+```bash
+pip install streamlit tensorflow pillow numpy absl-py
+```
+3. Download the Model
+You'll need to place the trained model file (swin.h5) in the trained_model/ directory:
+```bash
+plant-disease-detector/
+├── trained_model/
+│   └── swin.h5
+├── main.py
+├── class_indices.json
+├── disease_descriptions.json
+├── disease_preventions.json
+└── config.toml
+```
+4. Run the Application
+```bash
+streamlit run main.py
+```
+The app will be available at http://localhost:8501 
 
+Usage 📖
 
+## Upload Image 
+1. Click "Upload an image" and select a clear photo of a plant leaf
+2. Predict: Click the "Predict" button to analyze the image
+3. View Results: The app will display:
+ - The predicted disease/condition
+ - Description of the disease
+ - Prevention measures
 
