@@ -28,7 +28,7 @@ A machine learning-powered web application that identifies plant diseases from l
 - Model Architecture: Swin Transformer (swin.h5)
 
 ## Installation & Setup
-Prerequisites
+# Prerequisites
 
 
 
