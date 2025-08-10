@@ -1,5 +1,7 @@
 # Plant Disease Detector Web App 🌱
 
+![Plant Disease Detector Interface](images/s2.png)
+
 A machine learning-powered web application that identifies plant diseases from leaf images. Built with Streamlit and TensorFlow, this app can detect 38 different plant diseases and healthy conditions across 14 crop types.
 
 ## Features
