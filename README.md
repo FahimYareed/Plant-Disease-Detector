@@ -66,4 +66,14 @@ The app will be available at http://localhost:8501
    - The predicted disease/condition
    - Detailed description of the disease
    - Prevention measures and management tips
+  
+## Model Information
+- Architecture: Swin Transformer
+- Model Type: Vision Transformer variant 
+- Input Size: 224x224 pixels
+- Classes: 38 different conditions (diseases + healthy states)
+- Model File: swin.h5 (Keras format)
+
+
+
 
